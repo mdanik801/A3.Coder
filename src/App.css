@@ -1,0 +1,5 @@
+.inputebox ::placeholder {
+   text-align: center;
+   padding: 60px;
+   color: darkturquoise;
+}
